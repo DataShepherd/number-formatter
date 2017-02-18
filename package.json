@@ -1,0 +1,22 @@
+{
+  "name": "@datashepherd/number-formatter",
+  "version": "0.0.1",
+  "description": "Folling @jdaudier's tute",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataShepherd/number-formatter.git"
+  },
+  "author": "Dan Parrott <daniel.parrott@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DataShepherd/number-formatter/issues"
+  },
+  "homepage": "https://github.com/DataShepherd/number-formatter#readme"
+}
