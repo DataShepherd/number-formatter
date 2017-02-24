@@ -1,6 +1,6 @@
 {
   "name": "@datashepherd/number-formatter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Folling @jdaudier's tute",
   "main": "index.js",
   "engines": {
@@ -9,7 +9,6 @@
   "scripts": {
     "test": "mocha --reporter spec",
     "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
-
   },
   "repository": {
     "type": "git",
